@@ -1,0 +1,7 @@
+{
+  "Name": "Random Data Updater for Dataverse",
+  "Version": "1.0.0",
+  "Author": "Your Name",
+  "Description": "Update existing records with random lookup, picklist, number, money, date, and text values.",
+  "AssemblyName": "RandomDataUpdater.dll"
+}
